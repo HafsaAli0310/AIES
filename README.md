@@ -1,4 +1,4 @@
-# AIES
+# AIES Assignment 02
 
 ## ✅ Prerequisites
 Before running the code, make sure you have:
