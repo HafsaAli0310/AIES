@@ -10,13 +10,13 @@ No external libraries are required — it only uses Python’s built-in tkinter 
 Open any code editor or IDE like VS Code, PyCharm, Sublime Text, or even IDLE (comes with Python).
 
 ### 🔹 Step 2: Create a New Python File
-Create a file and name it something like:
-tic_tac_toe_ai.py
+Download the python file:
+MinimaxAlphaPruning.py
 
 ### 🔹 Step 3: Run the File
 You can run it in multiple ways:
 ✅ Using Terminal/Command Prompt:
-python tic_tac_toe_ai.py
+python MinimaxAlphaPruning.py
 ✅ Using VS Code:
 Right-click the file → Run Python File in Terminal
 ✅ Using IDLE:
